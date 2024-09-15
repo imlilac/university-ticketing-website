@@ -1,0 +1,67 @@
+# Node.js (for frontend and backend)
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs/
+*.log
+
+# Build output
+dist/
+build/
+public/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Miscellaneous
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# Frontend-specific
+/frontend/.next/
+/frontend/.nuxt/
+/frontend/out/
+frontend/public/assets/
+
+# Backend-specific
+/backend/coverage/
+/backend/tmp/
+backend/logs/
+backend/*.pid
+backend/*.seed
+
+# Docker
+docker-compose.override.yml
+docker-compose.local.yml
+Dockerfile
+Dockerfile.dev
+
+# VS Code settings
+.vscode/
+
+# Yarn
+yarn-error.log
+
+# MacOS Finder
+.DS_Store
