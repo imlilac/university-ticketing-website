@@ -44,7 +44,9 @@
 
 ## Screenshot-admin answer ticket
 
-![https://github.com/imlilac/university-ticketing-website/blob/main/screenshots/screenshot%20(1).png)
+![Screenshot](https://github.com/imlilac/university-ticketing-website/blob/main/screenshots/screenshot%20(1).png).
+![Screenshot](https://github.com/imlilac/university-ticketing-website/blob/main/screenshots/screenshot%20(2).png).
+![Screenshot](https://github.com/imlilac/university-ticketing-website/blob/main/screenshots/screenshot%20(3).png).
 
 ## Built With
 
