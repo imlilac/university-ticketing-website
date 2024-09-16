@@ -1,9 +1,38 @@
 # University Ticketing Website
 
 
-## Screenshot
+## Screenshot-home page
 
-![Screenshot](https://github.com/imlilac/Lilac-Beauty/blob/main/public/img/skin-srcreenshot.png)
+![Screenshot](https://github.com/imlilac/university-ticketing-website/blob/main/screenshots/screen%20(1).png)
+
+## Screenshot-login
+
+![Screenshot](https://github.com/imlilac/university-ticketing-website/blob/main/screenshots/screen%20(13).png)
+
+## Screenshot-register
+
+![Screenshot](https://github.com/imlilac/university-ticketing-website/blob/main/screenshots/screen%20(2).png)
+![Screenshot](https://github.com/imlilac/university-ticketing-website/blob/main/screenshots/screen%20(3).png)
+
+
+## Screenshot-user panel
+
+![Screenshot](https://github.com/imlilac/university-ticketing-website/blob/main/screenshots/screen%20(4).png)
+![Screenshot](https://github.com/imlilac/university-ticketing-website/blob/main/screenshots/screen%20(5).png)
+
+## Screenshot-user ticket
+
+![Screenshot](https://github.com/imlilac/university-ticketing-website/blob/main/screenshots/screen%20(8).png)
+![Screenshot](https://github.com/imlilac/university-ticketing-website/blob/main/screenshots/screen%20(7).png)
+![Screenshot](https://github.com/imlilac/university-ticketing-website/blob/main/screenshots/screen%20(9).png)
+
+## Screenshot-admin panel
+
+![Screenshot](https://github.com/imlilac/university-ticketing-website/blob/main/screenshots/panel-admin.png)
+
+## Screenshot-admin answer ticket
+
+![https://github.com/imlilac/university-ticketing-website/blob/main/screenshots/screenshot%20(1).png)
 
 ## Built With
 
