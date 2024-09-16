@@ -11,14 +11,15 @@
 
 ![Screenshot](https://github.com/imlilac/university-ticketing-website/blob/main/screenshots/search%20(2).png)
 
-## Screenshot-login
-
-![Screenshot](https://github.com/imlilac/university-ticketing-website/blob/main/screenshots/screen%20(13).png)
 
 ## Screenshot-register
 
 ![Screenshot](https://github.com/imlilac/university-ticketing-website/blob/main/screenshots/screen%20(2).png)
 ![Screenshot](https://github.com/imlilac/university-ticketing-website/blob/main/screenshots/screen%20(3).png)
+
+## Screenshot-login
+
+![Screenshot](https://github.com/imlilac/university-ticketing-website/blob/main/screenshots/screen%20(13).png)
 
 
 ## Screenshot-user panel
