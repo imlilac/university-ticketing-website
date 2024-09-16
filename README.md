@@ -12,6 +12,11 @@
 ![Screenshot](https://github.com/imlilac/university-ticketing-website/blob/main/screenshots/search%20(2).png)
 
 
+## Screenshot-article
+
+![Screenshot](https://github.com/imlilac/university-ticketing-website/blob/main/screenshots/screen%20(11).png)
+
+
 ## Screenshot-register
 
 ![Screenshot](https://github.com/imlilac/university-ticketing-website/blob/main/screenshots/screen%20(2).png)
